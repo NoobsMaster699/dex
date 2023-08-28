@@ -8,7 +8,7 @@ const Page404Error = () => {
         <div className="mx-auto flex w-full max-w-7xl flex-grow flex-col justify-center px-4 sm:px-6 lg:px-8">
           <div className="flex flex-shrink-0 justify-center">
             <Image
-              src={"/LOGO.jpeg"}
+              src={"/logo.png"}
               className={
                 "w-28 h-28 rounded-full border-2 border-woodsmoke-50 dark:border-woodsmoke-800"
               }
