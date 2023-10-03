@@ -3,7 +3,7 @@ import Link from "next/link";
 import { TypeAnimation } from "react-type-animation";
 
 const description =
-  "Web ini merupakan gerbang utama untuk menuju beberapa index yang apabila suatu link mati dan mengganti domainya kalian tidak pusing untuk mengahafalnya. Jika film yang kalian cari tidak ada coba gunakan judul lengkap dari film tersebut. Gunakan Web ini selagi masih ada";
+  "Web ini merupakan gerbang utama untuk menuju beberapa index yang apabila suatu link mati dan mengganti domainya kalian tidak pusing untuk mengahafalnya cukup hafalkan link ini. Jika film yang kalian cari tidak ada coba gunakan judul lengkap dari film tersebut, dan jika kalian menganggap web ini susah untuk mencari filmnya atau mendownloadnya berati anda itu tolol udah gratis banyak mau langganan aja bro ";
 
 
 const ArrowRightIcon = (props) => {
