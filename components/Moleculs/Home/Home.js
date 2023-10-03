@@ -3,7 +3,7 @@ import Link from "next/link";
 import { TypeAnimation } from "react-type-animation";
 
 const description =
-  "Web ini merupakan gerbang utama untuk menuju beberapa index yang apabila suatu link mati dan mengganti domainya kalian tidak pusing untuk mengahafalnya cukup hafalkan link ini. Jika film yang kalian cari tidak ada coba gunakan judul lengkap dari film tersebut, dan jika kalian menganggap web ini susah untuk mencari filmnya atau mendownloadnya berati anda itu tolol udah gratis banyak mau langganan aja bro ";
+  "Web ini merupakan gerbang utama untuk menuju beberapa index yang apabila suatu link mati dan mengganti domainya kalian tidak pusing untuk mengahafalnya cukup hafalkan link ini. Jika film yang kalian cari tidak ada coba gunakan judul lengkap dari film tersebut, dan jika kalian menganggap web ini susah untuk mencari filmnya atau mendownloadnya berati anda itu tolol udah gratis banyak mau langganan netflix atau disney aja bro ";
 
 
 const ArrowRightIcon = (props) => {
@@ -44,8 +44,8 @@ const Project = () => {
     },
     {
       title: "Team Drive 3",
-      desc: "Berisi kumpulan TV-Series terbaru",
-      link: "https://drive.google.com/drive/u/1/folders/1Us0SXGclrsJd8Tnj3-XwrLnj3e6apskE",
+      desc: "Berisi kumpulan TV-Series terbaru, jika tv-series tidak ada coba cari di team drive 1 dan 2",
+      link: "https://index.12tkj2gay.workers.dev/0:/",
       date: "Series Index",
     },
       {
