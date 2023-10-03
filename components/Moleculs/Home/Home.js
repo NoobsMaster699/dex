@@ -38,12 +38,18 @@ const Project = () => {
     },
     {
       title: "Team Drive 2",
-      desc: "Berisi hanya film dan series terbaru jika tidak ada film yang di cari kembali ke team drive 1.",
+      desc: "Berisi hanya film dan beberapa series, jika tidak ada film atau series yang di cari kembali ke team drive 1.",
       link: "https://drivekjeh.me/0:/",
       date: "Movies & Series Index",
     },
     {
       title: "Team Drive 3",
+      desc: "Berisi kumpulan TV-Series terbaru",
+      link: "https://drive.google.com/drive/u/1/folders/1Us0SXGclrsJd8Tnj3-XwrLnj3e6apskE",
+      date: "Series Index",
+    },
+      {
+      title: "Team Drive 4 ",
       desc: "Berisi hanya wallpaper",
       link: "https://drive.google.com/drive/u/1/folders/1Us0SXGclrsJd8Tnj3-XwrLnj3e6apskE",
       date: "Wallpaper Index",
