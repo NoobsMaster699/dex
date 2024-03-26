@@ -39,7 +39,7 @@ const Project = () => {
     {
       title: "Team Drive 2",
       desc: "Berisi hanya film dan beberapa series, jika tidak ada film atau series yang di cari kembali ke team drive 1.",
-      link: "https://drivekjeh.me/0:/",
+      link: "https://mmk.12tkj2gay.workers.dev/0:/",
       date: "Movies & Series Index",
     },
     {
