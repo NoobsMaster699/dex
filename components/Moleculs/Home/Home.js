@@ -33,18 +33,18 @@ const Project = () => {
     {
       title: "Team Drive 1 ",
       desc: "Berisi kumpulan software, film, musik dan masih banyak lagi. Jika film yang kalian cari tidak ada pilih Team Drive 2",
-      link: "https://drivekj.tech/0:/Data/",
+      link: "https://latest.12tkj2gay.workers.dev/0:/",
       date: "Aio Index",
     },
     {
       title: "Team Drive 2",
-      desc: "Berisi hanya film dan beberapa series, jika tidak ada film atau series yang di cari kembali ke team drive 1.",
+      desc: "Berisi film terbaru atau film yang tidak ada di Team Drive 1.",
       link: "https://mmk.12tkj2gay.workers.dev/0:/",
-      date: "Movies & Series Index",
+      date: "Movies",
     },
     {
       title: "Team Drive 3",
-      desc: "Berisi kumpulan TV-Series terbaru, jika tv-series tidak ada coba cari di team drive 1 dan 2",
+      desc: "Berisi kumpulan TV-Series terbaru, jika tv-series tidak ada coba cari di Team Drive 1",
       link: "https://index.12tkj2gay.workers.dev/0:/",
       date: "Series Index",
     },
